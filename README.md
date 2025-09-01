@@ -56,6 +56,6 @@
    ```
 
 ---
-##screenshot
-![Alt text](images/resumeparser.png)
+## screenshot
+![Alt text](resumeparser.png)
 
